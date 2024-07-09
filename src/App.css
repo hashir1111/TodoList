@@ -1,0 +1,23 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.add-task-container {
+    width: 40%;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.todo-list-container {
+    width: 40%;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
